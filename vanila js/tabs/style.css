@@ -1,0 +1,13 @@
+.tab-selection>.active{
+    background-color:black;
+    color:white
+}
+.tab-selection>button:hover{
+    cursor: pointer;
+}
+.tab-container>div{
+display:none;
+}
+.tab-container>div.active{
+    display: block;
+}
